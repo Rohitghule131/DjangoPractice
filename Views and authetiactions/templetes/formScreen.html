@@ -1,0 +1,13 @@
+
+{% extends 'index.html' %}
+{% block title %} Form {% endblock title %}
+{% block form %}
+
+<form method='post'>
+    <div class="form-group my-5 mx-5">
+        {{form.as_p}}
+        <input class="btn btn-primary" type="submit" value="Submit">
+      </div>
+<form/>
+
+{% endblock form %}
