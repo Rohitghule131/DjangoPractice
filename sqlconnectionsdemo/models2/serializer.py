@@ -21,3 +21,5 @@ class PersonSerialzer(serializers.Serializer):
         return instance
     # def update(self, instance, validated_data):
     #     return Person.objects.update(instance, **validated_data)
+
+    
