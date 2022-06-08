@@ -28,7 +28,9 @@ INSTALLED_APPS = [
     'api',
     'rest_framework'
 ]
+
 AUTH_USER_MODEL = 'api.UserAccount'
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
