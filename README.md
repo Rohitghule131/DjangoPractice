@@ -9,3 +9,11 @@ link - https://github.com/Rohitghule131/DjangoPractice/tree/master/Custom%20User
 07/06/2022 
 implement and practiced on custom model (AbstractUser and AbstractBaseUser)
 link :- https://github.com/Rohitghule131/DjangoPractice/tree/master/AbstractBaseUser/api
+
+###################
+
+08/06/2022
+implement basics of JWT token 
+link :- https://github.com/Rohitghule131/DjangoPractice/tree/master/JWTtokenAuthentication
+
+####################
